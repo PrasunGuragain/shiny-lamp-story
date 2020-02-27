@@ -1,2 +1,12 @@
 Once upon a time, there was a boy named Tim. He just turned 17 a week ago and was practicing for his road test to get a driver's licence. He practiced driving with his dad everyday. He drove everywhere
-around the city. Then he learned to drive in the highway. When the day of his road test came, he got very nervous. Fortunatly, he was able to pass the test and drive by him self from now. 
+around the city. Then he learned to drive in the highway. When the day of his road test came, he got very nervous. Fortunatly, he was able to pass the test and drive by him self from now.
+An almost utopian world formed around him as he drove. For the next 30 years of his life, he was
+somehow able to not get into any accidents, or get any tickets from law enforcement. However, on the
+fateful day of February 30th, 2050, things started to change for the worse. Through all his years
+driving, he'd only heard fables about a legendary shiny lamp. This lamp, the legends told, was able
+to give you endless good fortune, and even has the power to grant you one wish. As stories went, the
+year 2050 is the year of the start of Lampenschrein, a sinful apocalypse about to unfold.
+
+It was February 31st. The Lampenschrein has just started. A serious event indeed, and yet our hero
+is sitting at a computer, doing his CS400 Git assignment, trying to figure out how to push his own
+changes to his X-Team's repository. Oh, how many seconds he's spent toiling away at such an unforgiving task! 
