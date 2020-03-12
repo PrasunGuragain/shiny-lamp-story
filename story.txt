@@ -15,5 +15,8 @@ Then later that day after finishing his Git assignment, Tim had been cleaning ou
 his great grandfather's old stuff when he discovered something mysterious. He found a big shiny lamp. But this lamp
 wasn't just any lamp, it was the SHINIEST lamp he had ever seen. When he tried rubbing it to wipe the dust off. A
 genie appeared from the lamp informing him that he had one and only one wish.
-
-
+ 
+Tim thought for a while, and suddenly he thought of using the recursive method learned in CS400. 
+Tim told Genie that his wish is fulfill him two wishes. Genie was shocked, and he felt that 
+Tim was the smartest guy he had met in thousands of years. In the end, Tim gained infinite wishes, but 
+he did not squander them. Instead, Tim used those wishes to help those in need.
