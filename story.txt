@@ -10,3 +10,10 @@ year 2050 is the year of the start of Lampenschrein, a sinful apocalypse about t
 It was February 31st. The Lampenschrein has just started. A serious event indeed, and yet our hero
 is sitting at a computer, doing his CS400 Git assignment, trying to figure out how to push his own
 changes to his X-Team's repository. Oh, how many seconds he's spent toiling away at such an unforgiving task! 
+
+Then later that day after finishing his Git assignment, Tim had been cleaning out his attic and was looking through
+his great grandfather's old stuff when he discovered something mysterious. He found a big shiny lamp. But this lamp
+wasn't just any lamp, it was the SHINIEST lamp he had ever seen. When he tried rubbing it to wipe the dust off. A
+genie appeared from the lamp informing him that he had one and only one wish.
+
+
