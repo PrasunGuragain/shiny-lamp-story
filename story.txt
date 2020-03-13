@@ -1,5 +1,7 @@
-Once upon a time, there was a boy named Tim. He just turned 17 a week ago and was practicing for his road test to get a driver's licence. He practiced driving with his dad everyday. He drove everywhere
-around the city. Then he learned to drive in the highway. When the day of his road test came, he got very nervous. Fortunatly, he was able to pass the test and drive by him self from now.
+Once upon a time, there was a boy named Tim. He just turned 17 a week ago and was practicing for 
+his road test to get a driver's licence. He practiced driving with his dad everyday. He drove everywhere
+around the city. Then he learned to drive in the highway. When the day of his road test came, he got 
+very nervous. Fortunatly, he was able to pass the test and drive by him self from now.
 An almost utopian world formed around him as he drove. For the next 30 years of his life, he was
 somehow able to not get into any accidents, or get any tickets from law enforcement. However, on the
 fateful day of February 30th, 2050, things started to change for the worse. Through all his years
@@ -19,4 +21,11 @@ genie appeared from the lamp informing him that he had one and only one wish.
 Tim thought for a while, and suddenly he thought of using the recursive method learned in CS400. 
 Tim told Genie that his wish is fulfill him two wishes. Genie was shocked, and he felt that 
 Tim was the smartest guy he had met in thousands of years. In the end, Tim gained infinite wishes, but 
-he did not squander them. Instead, Tim used those wishes to help those in need.
+he did not squander them. Instead, Tim used those wishes to help those in need. 
+
+The first person he helped was his dad, who wanted a brand new phone. His wish was granted and his dad was very happy.
+Few days later, everyone in his city found out about the genie. Thousands of people came to Tim house to get their wish come true.
+Tim was very happy to see his friends and family so happy. Tim got an award for being the nicest and best person in the city.
+Soon, people from around the world started to come to Tim's house. Tim decided to make this his buissness, where he grants everyone wishs.
+For just $5, anyone can get their wish granted in Tim's company. Everyone was very happy and lived happily ever after.
+
